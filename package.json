@@ -1,0 +1,17 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lukesilvia/npm-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukesilvia/npm-example/issues"
+  },
+  "homepage": "https://github.com/lukesilvia/npm-example#readme"
+}
